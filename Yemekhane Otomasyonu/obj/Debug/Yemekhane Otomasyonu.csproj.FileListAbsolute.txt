@@ -1,0 +1,34 @@
+c:\users\toshiba\documents\visual studio 2015\Projects\Yemekhane Otomasyonu\Yemekhane Otomasyonu\bin\Debug\Yemekhane Otomasyonu.exe.config
+c:\users\toshiba\documents\visual studio 2015\Projects\Yemekhane Otomasyonu\Yemekhane Otomasyonu\bin\Debug\Yemekhane Otomasyonu.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\Yemekhane Otomasyonu\Yemekhane Otomasyonu\bin\Debug\Yemekhane Otomasyonu.pdb
+c:\users\toshiba\documents\visual studio 2015\Projects\Yemekhane Otomasyonu\Yemekhane Otomasyonu\obj\Debug\Yemekhane_Otomasyonu.Giris.resources
+c:\users\toshiba\documents\visual studio 2015\Projects\Yemekhane Otomasyonu\Yemekhane Otomasyonu\obj\Debug\Yemekhane_Otomasyonu.Properties.Resources.resources
+c:\users\toshiba\documents\visual studio 2015\Projects\Yemekhane Otomasyonu\Yemekhane Otomasyonu\obj\Debug\Yemekhane Otomasyonu.csproj.GenerateResource.Cache
+c:\users\toshiba\documents\visual studio 2015\Projects\Yemekhane Otomasyonu\Yemekhane Otomasyonu\obj\Debug\Yemekhane Otomasyonu.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\Yemekhane Otomasyonu\Yemekhane Otomasyonu\obj\Debug\Yemekhane Otomasyonu.pdb
+C:\Users\toshiba\Documents\Visual Studio 2015\Projects\Yemekhane Otomasyonu\Yemekhane Otomasyonu\obj\Debug\Yemekhane Otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\toshiba\Documents\Visual Studio 2015\Projects\Yemekhane Otomasyonu\Yemekhane Otomasyonu\obj\Debug\Yemekhane_Otomasyonu.KartOkuma.resources
+C:\Users\toshiba\Documents\Visual Studio 2015\Projects\Yemekhane Otomasyonu\Yemekhane Otomasyonu\obj\Debug\Yemekhane_Otomasyonu.YeniKayit.resources
+C:\Users\toshiba\Documents\Visual Studio 2015\Projects\Yemekhane Otomasyonu\Yemekhane Otomasyonu\obj\Debug\Yemekhane_Otomasyonu.ParaYükleme.resources
+C:\Users\toshiba\Documents\Visual Studio 2015\Projects\Yemekhane Otomasyonu\Yemekhane Otomasyonu\obj\Debug\Yemekhane_Otomasyonu.KartIslemleri.resources
+C:\Users\toshiba\Documents\Visual Studio 2015\Projects\Yemekhane Otomasyonu\Yemekhane Otomasyonu\obj\Debug\Yemekhane_Otomasyonu.KayitSilme.resources
+C:\Users\toshiba\Documents\Visual Studio 2015\Projects\Yemekhane Otomasyonu\Yemekhane Otomasyonu\bin\Debug\Veritabanı.accdb
+C:\Users\toshiba\Documents\Visual Studio 2015\Projects\Yemekhane Otomasyonu\Yemekhane Otomasyonu\obj\Debug\Yemekhane_Otomasyonu.IslemSecim.resources
+C:\Users\toshiba\Documents\Visual Studio 2015\Projects\Yemekhane Otomasyonu\Yemekhane Otomasyonu\obj\Debug\Yemekhane_Otomasyonu.YemekSiparis.resources
+D:\kadir\çalışmalar\Visual Studio 2015\Projects\Yemekhane Otomasyonu\Yemekhane Otomasyonu\bin\Debug\Yemekhane Otomasyonu.exe.config
+D:\kadir\çalışmalar\Visual Studio 2015\Projects\Yemekhane Otomasyonu\Yemekhane Otomasyonu\obj\Debug\Yemekhane Otomasyonu.exe
+D:\kadir\çalışmalar\Visual Studio 2015\Projects\Yemekhane Otomasyonu\Yemekhane Otomasyonu\obj\Debug\Yemekhane Otomasyonu.pdb
+D:\kadir\çalışmalar\Visual Studio 2015\Projects\Yemekhane Otomasyonu\Yemekhane Otomasyonu\bin\Debug\Veritabanı.accdb
+D:\kadir\çalışmalar\Visual Studio 2015\Projects\Yemekhane Otomasyonu\Yemekhane Otomasyonu\bin\Debug\Yemekhane Otomasyonu.exe
+D:\kadir\çalışmalar\Visual Studio 2015\Projects\Yemekhane Otomasyonu\Yemekhane Otomasyonu\bin\Debug\Yemekhane Otomasyonu.pdb
+D:\kadir\çalışmalar\Visual Studio 2015\Projects\Yemekhane Otomasyonu\Yemekhane Otomasyonu\obj\Debug\Yemekhane Otomasyonu.csprojResolveAssemblyReference.cache
+D:\kadir\çalışmalar\Visual Studio 2015\Projects\Yemekhane Otomasyonu\Yemekhane Otomasyonu\obj\Debug\Yemekhane_Otomasyonu.Giris.resources
+D:\kadir\çalışmalar\Visual Studio 2015\Projects\Yemekhane Otomasyonu\Yemekhane Otomasyonu\obj\Debug\Yemekhane_Otomasyonu.KartIslemleri.resources
+D:\kadir\çalışmalar\Visual Studio 2015\Projects\Yemekhane Otomasyonu\Yemekhane Otomasyonu\obj\Debug\Yemekhane_Otomasyonu.KartOkuma.resources
+D:\kadir\çalışmalar\Visual Studio 2015\Projects\Yemekhane Otomasyonu\Yemekhane Otomasyonu\obj\Debug\Yemekhane_Otomasyonu.KayitSilme.resources
+D:\kadir\çalışmalar\Visual Studio 2015\Projects\Yemekhane Otomasyonu\Yemekhane Otomasyonu\obj\Debug\Yemekhane_Otomasyonu.ParaYükleme.resources
+D:\kadir\çalışmalar\Visual Studio 2015\Projects\Yemekhane Otomasyonu\Yemekhane Otomasyonu\obj\Debug\Yemekhane_Otomasyonu.Properties.Resources.resources
+D:\kadir\çalışmalar\Visual Studio 2015\Projects\Yemekhane Otomasyonu\Yemekhane Otomasyonu\obj\Debug\Yemekhane_Otomasyonu.YemekSiparis.resources
+D:\kadir\çalışmalar\Visual Studio 2015\Projects\Yemekhane Otomasyonu\Yemekhane Otomasyonu\obj\Debug\Yemekhane_Otomasyonu.YeniKayit.resources
+D:\kadir\çalışmalar\Visual Studio 2015\Projects\Yemekhane Otomasyonu\Yemekhane Otomasyonu\obj\Debug\Yemekhane_Otomasyonu.IslemSecim.resources
+D:\kadir\çalışmalar\Visual Studio 2015\Projects\Yemekhane Otomasyonu\Yemekhane Otomasyonu\obj\Debug\Yemekhane Otomasyonu.csproj.GenerateResource.Cache
